@@ -22,7 +22,7 @@ A frontend application for managing and displaying events at 42 Abu Dhabi. This 
 1. Clone the repository:
 ```bash
 git clone git@github.com:kambarg/frontend_faceoff.git
-cd 42-events
+cd frontend_faceoff
 ```
 
 2. Install dependencies:
