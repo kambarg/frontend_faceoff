@@ -57,3 +57,7 @@ yarn dev
 - Tailwind CSS
 - ESLint
 - PostCSS 
+
+## Deployment link
+
+[https://frontend-faceoff-umber.vercel.app/](https://frontend-faceoff-umber.vercel.app/)
